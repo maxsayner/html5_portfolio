@@ -2574,6 +2574,11 @@ input[type="radio"] + label:before {
   width: 100%;
 }
 
+.main_img {
+  display: flex;
+  justify-content: center;
+}
+
 /* List */
 
 ol {
